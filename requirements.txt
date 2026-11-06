@@ -1,0 +1,6 @@
+# Offline analysis only. Versions observed in the local NAVSIM environment.
+numpy==1.26.4
+matplotlib==3.9.4
+Pillow==11.3.0
+pyquaternion==0.9.9
+torch==2.5.1

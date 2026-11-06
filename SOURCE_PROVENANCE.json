@@ -1,0 +1,230 @@
+{
+  "archive": "/mnt/project/VLA-AD/outputs/recogdrive_repair_pattern_evidence_20261103/recogdrive_repair_pattern_analysis_full.zip",
+  "archive_sha256": "c7ae1ed34f4a1ab8990fd0f07a12b3a5baf886085e939722ec1233bf5c7e66a6",
+  "archive_bytes": 349261858,
+  "scope": "Only Python source extracted. No numerical assets, figures, images, model weights or per-scene results.",
+  "files": [
+    {
+      "repository_path": "analysis/analyze_scene_metadata.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/analyze_scene_metadata.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/analyze_scene_metadata.py",
+      "original_sha256": "163f1c5dc8c755ffbb3d53f9d0b22ec92b4f707a2d8bbf087a183a45f3a5d650",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/build_deliverable.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/build_deliverable.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/build_deliverable.py",
+      "original_sha256": "d895d0373d31774d5497d71ff50fff755ec26b81330735c943a6057fb5e835d8",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/outcomes/analyze_outcomes.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/outcomes/analyze_outcomes.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/outcomes/analyze_outcomes.py",
+      "original_sha256": "e626c826a67706a57fd491b76388bc846726d5f36db6b52198d9ae00da0b15ea",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/outcomes/plot_outcomes.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/outcomes/plot_outcomes.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/outcomes/plot_outcomes.py",
+      "original_sha256": "0d25640aca85d860b42580b0b4cc69f899f550d5643de833028bcbac8dac9e20",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/outcomes/supplement_outcomes.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/outcomes/supplement_outcomes.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/outcomes/supplement_outcomes.py",
+      "original_sha256": "e842ae737297e93f9cbddfb83c3b4ea33c5f8f36e53381f07e7f8125e40491e1",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/representation/analyze_fit_cluster_semantics.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/representation/analyze_fit_cluster_semantics.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/representation/analyze_fit_cluster_semantics.py",
+      "original_sha256": "dcdd458cd79c8ba951738b98d514b5003bc66a463ecb50e835038a896afe8cec",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/representation/analyze_mechanisms.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/representation/analyze_mechanisms.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/representation/analyze_mechanisms.py",
+      "original_sha256": "eb66cc8377edb498055ff4afd69943a99f7b57acb6b6679f9ef50d3e5e050b48",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/representation/analyze_selected_shifts.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/representation/analyze_selected_shifts.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/representation/analyze_selected_shifts.py",
+      "original_sha256": "7352bc8685ad00cf88a91c4703603a3e989d7ca203b266a5d066b48920d0d062",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/semantic_followup.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/semantic_followup.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/semantic_followup.py",
+      "original_sha256": "a673c3de2c3791364caf35bddc9fe385367ee75f41114335fac3bcd0ae408fd4",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/trajectories/analyze_trajectories.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/trajectories/analyze_trajectories.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/trajectories/analyze_trajectories.py",
+      "original_sha256": "7455cd80ebff466600fb2456fb8f76a2d9ad98d0748c43b3ff3b456e898d977e",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/trajectories/bootstrap_geometry.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/trajectories/bootstrap_geometry.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/trajectories/bootstrap_geometry.py",
+      "original_sha256": "c67b1b2d664340fd3991c129656294f92d43c3ee0f29d090ed07d6359fd11602",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/trajectories/fit_cluster_bootstrap.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/trajectories/fit_cluster_bootstrap.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/trajectories/fit_cluster_bootstrap.py",
+      "original_sha256": "604c068d5eec24b02f03b454aad105bd628079d8bdb1cd7b03a9e9d436e76a47",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/trajectories/fit_cluster_planning.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/trajectories/fit_cluster_planning.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/trajectories/fit_cluster_planning.py",
+      "original_sha256": "59a3e5b11624e15434f85e095576a0b66704b3abd299e716473905c4be57f13c",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/trajectories/gt_alignment.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/trajectories/gt_alignment.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/trajectories/gt_alignment.py",
+      "original_sha256": "cf8080bf62884157786eef4c66a69dee57200a2b37bd751f502d20ef8266daf6",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/trajectories/gt_bootstrap.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/trajectories/gt_bootstrap.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/trajectories/gt_bootstrap.py",
+      "original_sha256": "bbcf654c3c8d1ab7dd5c10c2c4d1c5a43ce431da07f0e34cef161e314a4ba4f9",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "analysis/trajectories/summarize_profiles.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/analysis/trajectories/summarize_profiles.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/engineering/repair_patterns_20261103/trajectories/summarize_profiles.py",
+      "original_sha256": "a987842b4ccabd4051554edfb3e0fbc321ee203902452188a4185feab3ed9588",
+      "adaptation": "configurable input/output paths only"
+    },
+    {
+      "repository_path": "source_evidence/package_evidence.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/package_evidence.py",
+      "original_path": "/mnt/project/VLA-AD/outputs/recogdrive_repair_pattern_evidence_20261103/package_evidence.py",
+      "original_sha256": "2f08ca2f355a0038f35f07cafe4585e0f8ab546dc57d638d88c6bae08944349d",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/frozen_teacher/teacher_library.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/frozen_teacher/teacher_library.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_native_candidates_20261027/frozen_teacher/teacher_library.py",
+      "original_sha256": "45df3515afdaa2752ee0e06149e301c2b7f29f1e71d9ccbb60238fadbb44d8f3",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/ol_cv_shared48_cpu_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/ol_cv_shared48_cpu_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/offline_library/code/ol_cv_shared48_cpu_v1.py",
+      "original_sha256": "112decec6281e15ca06cb349c72d3f9544592711809b86cd814c607746e2f311",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/ol_l1_geometry_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/ol_l1_geometry_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/offline_library/code/ol_l1_geometry_v1.py",
+      "original_sha256": "926d6a65d2006cb0ab266bece5e0cfa5c3baa380a92ac1bcb325d89091aa2b23",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/ol_l1_operators_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/ol_l1_operators_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/offline_library/code/ol_l1_operators_v1.py",
+      "original_sha256": "5a1c901ba526ee2c34a6d093fa1d5d4b32603c07cf553ad869521de23896bdf9",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/ol_l1_pilot_fitter_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/ol_l1_pilot_fitter_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/offline_library/code/ol_l1_pilot_fitter_v1.py",
+      "original_sha256": "658913fa79de12a3d46472eadcc60d3233b2212eeba183375e31d46c1e3d0f8b",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/ol_l1_pilot_selection_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/ol_l1_pilot_selection_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/offline_library/code/ol_l1_pilot_selection_v1.py",
+      "original_sha256": "09135f8d275e2cb2e12532d7e2a81561fe73e392c52d02d1d6e2851edff5d9e2",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/ol_l2_formal_selection_v2.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/ol_l2_formal_selection_v2.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/offline_library/code/ol_l2_formal_selection_v2.py",
+      "original_sha256": "16ae667e20a8098e8272b9d16ce61c866effcc5d4a8ea8c28a117973cb005afa",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/ol_l3_outer_refit_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/ol_l3_outer_refit_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/offline_library/code/ol_l3_outer_refit_v1.py",
+      "original_sha256": "c942f78deacca26c86939e44044f2775b6c229c8d01dcd6f3a3c6017fecfd77d",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/ol_stage_a_final_factory_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/ol_stage_a_final_factory_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/offline_library/code/ol_stage_a_final_factory_v1.py",
+      "original_sha256": "1c6390f54935c2caca99498f3d5e096419e96bf1ee439860cb65b25ee370da0c",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/p2_u1_direction_experts_math_v2.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/p2_u1_direction_experts_math_v2.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/code/p2_u1_direction_experts_math_v2.py",
+      "original_sha256": "6e69dcf4604a8eb1b30940b613ecc6b73a6cf4fbe18d1b13f120f3f6475d2fa0",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/p2_u1_geometry_math_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/p2_u1_geometry_math_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/code/p2_u1_geometry_math_v1.py",
+      "original_sha256": "b10c34b092dd07d2f0cbd83bb483aae90b897f5a06d04d489d32d4d959ad2ba4",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/p2_u1_paired_mapping_math_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/p2_u1_paired_mapping_math_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/code/p2_u1_paired_mapping_math_v1.py",
+      "original_sha256": "938341d076ca53db75a5ff299efcf2b7a7f00c5ffb1862883b9f2e73c5d3e93b",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/original_math_sources/p2_u1_repair_functions_v1.py",
+      "archive_member": "recogdrive_repair_pattern_evidence/source_evidence/original_math_sources/p2_u1_repair_functions_v1.py",
+      "original_path": "/mnt/project/VLA-AD/experiments/recogdrive_dc8_refit_20261026/source_snapshot/ReCogDrive/1024-representation_distillation_diagnosis_batch5/stage2/code/p2_u1_repair_functions_v1.py",
+      "original_sha256": "00e18197078fa5b990eae16bc1943bb1ac40ffdd38ff4d5fcaab128106e8f619",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/native_interface/native_cap.py",
+      "original_path": "/mnt/project/recogdrive-no-routing-round1-20261026/interface_teacher/native_cap.py",
+      "original_sha256": "1fd1946c91ec7b3748984eb4b08aa229d3e3736e9f8b99d01f310634f87cb38d",
+      "adaptation": "byte-identical historical reference"
+    },
+    {
+      "repository_path": "source_evidence/native_interface/bank.py",
+      "original_path": "/mnt/project/recogdrive-no-routing-round1-20261026/interface_teacher/bank.py",
+      "original_sha256": "1a0e3b186863451b585c8a0df05c3353e6463877b08dc3fe17eb7a79f67f429e",
+      "adaptation": "byte-identical historical reference"
+    }
+  ]
+}
